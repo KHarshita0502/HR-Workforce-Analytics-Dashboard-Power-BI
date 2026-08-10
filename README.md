@@ -87,9 +87,11 @@ These findings help identify workforce segments that may require further HR anal
 
 
 💡 Skills Demonstrated
+
 Power BI | DAX | Power Query | Data Cleaning | Data Transformation | Data Modeling | Data Visualization | KPI Analysis | HR Analytics | Business Intelligence
 
 
 📌 Conclusion
+
 This project demonstrates an end-to-end Power BI analytics workflow, transforming raw HR data into an interactive dashboard that provides meaningful workforce insights and supports data-driven HR decision-makin
 g
