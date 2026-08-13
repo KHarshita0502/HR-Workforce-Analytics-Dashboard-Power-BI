@@ -93,5 +93,4 @@ Power BI | DAX | Power Query | Data Cleaning | Data Transformation | Data Modeli
 
 📌 Conclusion
 
-This project demonstrates an end-to-end Power BI analytics workflow, transforming raw HR data into an interactive dashboard that provides meaningful workforce insights and supports data-driven HR decision-makin
-g
+This project demonstrates an end-to-end Power BI analytics workflow, transforming raw HR data into an interactive dashboard that provides meaningful workforce insights and supports data-driven HR decision-making
